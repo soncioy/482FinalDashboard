@@ -1,5 +1,7 @@
 I was responsible for Visualization 4 which was the mood-focus scatterplot with activity based regression lines. I built this using Observable Plot, implemented checkbox filtering for 8 activity types, and used a jitter technique to handle overlapping data points.
 
+Link to dashboard: https://austinjsimmons.github.io/482FinalDashboard/
+
 
 
 # Final Project Dashboard
